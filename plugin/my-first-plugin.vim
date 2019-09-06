@@ -2,4 +2,4 @@ function! Meow()
     echom "Meow!"
 endfunction
 
-nnoremap <leader>mw: call Meow()<cr>
+nnoremap <leader>u1 :call Meow()<cr>;
